@@ -3,11 +3,6 @@
 
 - ⚡ Software developer for life, I dream in code and I make awesome games and apps. I am a freelancer available for hire.
 
-![tenement]([https://tynepunk.com/wp-content/uploads/2023/10/BOXART_4tshirt-768x763.png])
-
-
-
-
 <!--
 **amigax/amigax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
