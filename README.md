@@ -3,7 +3,7 @@
 
 - ⚡ Software developer for life, I dream in code and I make awesome games and apps. I am a freelancer available for hire.
 
-![tynepunk logo](http://tynepunk.com/wp-content/uploads/2022/01/4096x4096collageEXPERIMENTb-cop1200X1200-768x768.jpg)
+![tynepunk logo]([https://tynepunk.com/wp-content/uploads/2023/10/BOXART_4tshirt-768x763.png])
 
 
 
